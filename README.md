@@ -31,13 +31,13 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 15 november : schrijf basic movement
 16 november : maak animations + animations invoegen
 17 november : double jump coderen
-18 november : 
-19 november :
-20 november :
-21 november :
-22 november :
-23 november :
-24 november :
+18 november : double jump coderen
+19 november : slide coderen
+20 november : slide coderen
+21 november : dash coderen
+22 november :dash coderen
+23 november : anims voor dash en slide
+24 november : bugs fixen
 maandag 25 nov : Inleveren
 
 

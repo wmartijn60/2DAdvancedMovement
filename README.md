@@ -24,20 +24,21 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - Leren hoe ik een 2d hitbox verander met code 
 - Leren hoe ik animations in 2d doe in het script
 - Ik wil weten wat de het beste is om te gebruiken voor 2d movement
+
 ## Planning 
 13 november : maak planning + zoek sprites / research naar code
 14 november : research naar code
-15 november
-16 november
-17 november
-18 november
-19 november
-20 november
-21 november
-22 november
-23 november
-24 november
-maandag 25 nov
+15 november : schrijf basic movement
+16 november : maak animations + animations invoegen
+17 november : double jump coderen
+18 november : 
+19 november :
+20 november :
+21 november :
+22 november :
+23 november :
+24 november :
+maandag 25 nov : Inleveren
 
 
 ## Bronnen
